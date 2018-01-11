@@ -174,7 +174,7 @@ public class OrderVo {
         return statusDesc;
     }
 
-    public void setStatusDesc(String value) {
+    public void setStatusDesc(String statusDesc) {
         this.statusDesc = statusDesc;
     }
 }
